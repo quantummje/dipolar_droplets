@@ -1,3 +1,8 @@
+###############################################
+######### split-step dipolar doplet ###########
+############ Matthew Edmonds 2024 #############
+###############################################
+
 from scipy.fftpack import fft
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
